@@ -1,0 +1,2 @@
+# ampex
+my first repository
